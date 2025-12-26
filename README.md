@@ -108,8 +108,9 @@ ai-study-helper/
 ---
 
 ## Author
-
-Developed by Qasim Ali  
+ 
+Developed by Zamin Ali
+Developed by Qasim Ali 
 Aspiring frontend developer and AI enthusiast
 
 ---
